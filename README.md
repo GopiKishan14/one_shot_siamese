@@ -11,8 +11,8 @@ Trains on the [Omniglot dataset]( https://github.com/brendenlake/omniglot).
 To run, you'll first have to clone this repo and install the dependencies
 
 ```bash
-git clone https://github.com/sorenbouma/keras-oneshot
-cd keras-oneshot
+git clone https://github.com/GopiKishan14/one_shot_siamese
+cd one_shot_siamese
 sudo pip install -r requirements.txt
 
 ```
