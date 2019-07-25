@@ -1,4 +1,4 @@
-# keras-oneshot
+# one_shot_siamese
 ![oneshot task](images/task_25.png)
 [koch et al, Siamese Networks for one-shot learning,](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)  (mostly) reimplimented in keras. 
 Trains on the [Omniglot dataset]( https://github.com/brendenlake/omniglot).
