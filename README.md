@@ -3,8 +3,6 @@
 [koch et al, Siamese Networks for one-shot learning,](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)  (mostly) reimplimented in keras. 
 Trains on the [Omniglot dataset]( https://github.com/brendenlake/omniglot).
 
-Also check out my [blog post](https://sorenbouma.github.io/blog/oneshot) about this paper and one shot learning in general!
-
 
 
 ## Installation Instructions
